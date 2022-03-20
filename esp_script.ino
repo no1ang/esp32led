@@ -1,4 +1,4 @@
-#define LED 23
+#define LED 0
 #include "BluetoothSerial.h"
 
 BluetoothSerial ESP_BT; 
